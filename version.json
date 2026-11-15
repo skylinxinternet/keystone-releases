@@ -1,1 +1,1 @@
-{"versionCode": 6, "versionName": "1.2.3", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.2.3.apk", "notes": "Fix: app starts again on Android. Photos upload. Tickets hidden."}
+{"versionCode": 9, "versionName": "1.2.6", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.2.6.apk", "notes": "Settings page with your profile at the top. Fixed top bar. Bell for new jobs. Jobs numbers only on the Jobs tab."}
