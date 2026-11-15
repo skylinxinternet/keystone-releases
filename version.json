@@ -1,1 +1,1 @@
-{"versionCode": 17, "versionName": "1.3.4", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.3.4.apk", "notes": "Main page as in the approved design: profile header, blue hero with Continue Job, four stat cards, Add Job button."}
+{"versionCode": 19, "versionName": "1.3.6", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.3.6.apk", "notes": "Update popout in the middle of the screen, with a download bar. Haptic feedback. New install-step design."}
