@@ -1,1 +1,1 @@
-{"versionCode": 24, "versionName": "1.3.11", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.3.11.apk", "notes": "Signal strength wheel is shorter and the step no longer scrolls behind it."}
+{"versionCode": 25, "versionName": "1.3.12", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.3.12.apk", "notes": "Fixes Settings, Tools and other screens that stopped scrolling after an install job."}
