@@ -1,1 +1,1 @@
-{"versionCode": 32, "versionName": "1.3.19", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.3.19.apk", "notes": "New startup screen with the Keystone logo."}
+{"versionCode": 33, "versionName": "1.3.20", "apkUrl": "https://raw.githubusercontent.com/skylinxinternet/keystone-releases/main/keystone-1.3.20.apk", "notes": "Customer calls can now be logged as tickets. Works offline; sent when the signal returns."}
